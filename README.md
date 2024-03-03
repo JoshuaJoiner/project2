@@ -1,5 +1,6 @@
 # project2
 Project Description
+
 For this project, you will add CSS to the 3-page website you built for project 1.
 
 Deliverables & Milestones (see calender for due dates)
