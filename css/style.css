@@ -6,7 +6,7 @@ body, h1, h2, p, ol, ul, li {
 
 /* Apply a consistent font family to all text */
 body {
-  font-family: Arial, cursive;
+  font-family: Brush Script MT, cursive;
 }
 
 /* Apply a consistent background color and text color */
@@ -106,22 +106,4 @@ li {
 /* Apply a consistent style to the address in the footer */
 address {
   font-style: italic;
-}
-
-/* Apply a consistent border and border-radius to images */
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-/* Additional styles for Damian Lillard's picture */
-#damian-lillard-picture {
-  margin-left: auto;
-  margin-right: 50;
-}
-
-/* Additional styles for Russell Westbrook's picture */
-#russell-westbrook-picture {
-  margin-left: auto;
-  margin-right: 50;
 }
