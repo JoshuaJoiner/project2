@@ -6,7 +6,7 @@ body, h1, h2, p, ol, ul, li {
 
 /* Apply a consistent font family to all text */
 body {
-  font-family: Comic Sans MS, cursive;
+  font-family: Georgia, serif;
 }
 
 /* Apply a consistent background color and text color */
