@@ -24,7 +24,6 @@ section {
 /* Apply a consistent width to the header */
 header {
   width: 100%;
-  text-align: center; /* Center the header content */
 }
 
 /* Apply a consistent style to the navigation menu */
@@ -94,7 +93,6 @@ video {
 /* Apply a consistent style to headings */
 h1, h2 {
   color: #007BFF;
-  text-align: center; /* Center the title */
 }
 
 /* Apply a consistent style to paragraphs */
