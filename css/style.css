@@ -34,11 +34,13 @@ nav {
 nav ul {
   list-style: none;
   background-color: #00ff00;
-  display: inline-block; /* Display the list items in a line */
+  display: flex; /* Change to flex to make it horizontal */
+  justify-content: center; /* Center the items horizontally */
 }
 
 nav ul li {
   display: inline; /* Display the list items in a line */
+  margin: 0 10px; /* Add some spacing between items */
 }
 
 nav ul li a {
