@@ -33,7 +33,7 @@ nav {
 
 nav ul {
   list-style: none;
-  background-color: #00ff00;
+  background-color: #006400;
   display: flex; /* Change to flex to make it horizontal */
   justify-content: center; /* Center the items horizontally */
 }
@@ -61,7 +61,7 @@ header a {
 footer {
   margin-top: 20px;
   padding: 10px;
-  background-color: #00ff00;
+  background-color: #006400;
   color: white;
   text-align: center;
 }
