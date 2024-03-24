@@ -6,7 +6,7 @@ body, h1, h2, p, ol, ul, li {
 
 /* Apply a consistent font family to all text */
 body {
-  font-family: Georgia, serif;
+  font-family: 'San-serif', Arial, sans-serif; /* Added a backup font */
 }
 
 /* Apply a consistent background color and text color */
@@ -17,8 +17,8 @@ body {
 
 /* Apply a consistent margin and padding to sections */
 section {
-  margin: 20px;
-  padding: 20px;
+  margin: 2%; /* Using relative units for fluidity */
+  padding: 2%; /* Using relative units for fluidity */
 }
 
 /* Apply a consistent width to the header */
@@ -59,8 +59,8 @@ header a {
 
 /* Apply a consistent style to the footer */
 footer {
-  margin-top: 20px;
-  padding: 10px;
+  margin-top: 2%; /* Using relative units for fluidity */
+  padding: 1%; /* Using relative units for fluidity */
   background-color: #006400;
   color: white;
   text-align: center;
@@ -82,6 +82,8 @@ footer {
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
+  float: left; /* Float the images to the left */
+  margin-right: 20px; /* Add some spacing between images */
 }
 
 /* Apply a consistent style to videos */
